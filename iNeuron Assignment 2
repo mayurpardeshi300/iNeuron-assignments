@@ -1,0 +1,22 @@
+##  1. Create the below pattern using nested for loop in Python.
+
+word=input("Enter word :")
+result=""
+for i in reversed(word):
+  result += i
+print(result)
+  
+  
+## 2. Write a Python program to reverse a word after accepting the input from the user.
+
+word=input("Enter word :")
+result=""
+for i in reversed(word):
+  result += i
+print(result)
+
+OUTPUT:
+
+Enter word :Ineuron
+noruenI
+
